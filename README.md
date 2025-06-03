@@ -1,2 +1,7 @@
-# nfaerber.github.io
-About Me
+System Architect HPC
+
+I'm interested in:
+-  Programming
+-  Data Analytics
+-  AI / ML
+-  Cooking
