@@ -9,9 +9,9 @@ I'm interested in:
 -  Cooking  
 
 I'm an expert in:
--  I'm not there, yet ... still chasing my goals :)
+-  I'm not there, yet ...still chasing :)
 
-... but I know some:
+... but I sure know some:
 -  C
 -  Python
 -  R
